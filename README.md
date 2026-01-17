@@ -20,6 +20,12 @@ Version Control: Git & GitHub
 ![](https://nirzak-streak-stats.vercel.app/?user=dhanush106&theme=transparent&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=dhanush106&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 📛 Github Badges
+[![CI](https://github.com/YOUR_USERNAME/kana-dojo/actions/workflows/pr-check.yml/badge.svg)](https://github.com/YOUR_USERNAME/kana-dojo/actions)
+[![Issues](https://img.shields.io/github/issues/YOUR_USERNAME/kana-dojo)](https://github.com/YOUR_USERNAME/kana-dojo/issues)
+[![Pull Requests](https://img.shields.io/github/issues-pr/YOUR_USERNAME/kana-dojo)](https://github.com/YOUR_USERNAME/kana-dojo/pulls)
+[![Contributors](https://img.shields.io/github/contributors/YOUR_USERNAME/kana-dojo)](https://github.com/YOUR_USERNAME/kana-dojo/graphs/contributors)
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dhanush106&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4)
 
